@@ -1,5 +1,5 @@
-<h1 align="left">Hello! I'm Sayuru👋</h1>
-<h3 align="left">A Software Engineering Undergraduate from Sri Lanka</h3>
+<h2 align="left">Hello! I'm Sayuru👋</h1>
+<h4 align="left">A Software Engineering Undergraduate from Sri Lanka</h3>
 
 - 🔭 I’m currently working on **something cool!**
 
