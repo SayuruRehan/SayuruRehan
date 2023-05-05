@@ -1,8 +1,8 @@
 <h2 align="left">Hello! I'm Sayuru👋</h1>
 <h4 align="left">A Software Engineering Undergraduate from Sri Lanka</h3>
 
-- 🔭 I’m currently working on **Mental healthcare app for Android!**
-- 🌱 I’m currently learning **about frameworks, Java and Azure**
+- 🔭 I’m currently working on **DSA Visualizing tool!**
+- 🌱 I’m currently learning **about frameworks, Angular and Azure**
 - 👯 I’m looking to collaborate on **community projects**
 - 🤝 I’m looking for help with **my community projects**
 - 📃 Check out my portfolio! **[sayururehan.github.io](https://sayururehan.github.io/)**
