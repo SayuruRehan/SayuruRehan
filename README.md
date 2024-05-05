@@ -2,6 +2,7 @@
 <h4 align="left">A Software Engineering Undergraduate from Sri Lanka</h3>
 
 - 💜 I'm currently working as a **Junior Software Engineer at Platned**
+- 🦊 I'm the current **President of the SLIIT Mozilla Campus Club**
 - 🔭 I’m currently working on **DSA Visualizing tool!**
 - 🌱 I’m currently learning **about frameworks, Angular and Azure**
 - 👯 I’m looking to collaborate on **community projects**
