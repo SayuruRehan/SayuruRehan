@@ -9,7 +9,7 @@
 - 📃 Check out my portfolio! **[sayururehan.github.io](https://sayururehan.github.io/)**
 - 📝 I regularly write articles on [https://medium.com/@sayururehan](https://medium.com/@sayururehan)
 - 📫 How to reach me **: sayururehan77@gmail.com**
-- ⚡ Fun fact **: I have an imaginary pet ;)**
+- ⚡ Fun fact **: I have an imaginary duck 🦆 :) **
 <!-- - 🤝 I’m looking for help with **my community projects** -->
 <p align="left">
 </p>
