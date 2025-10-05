@@ -1,8 +1,8 @@
 <h2 align="left">Hello! I'm Sayuru👋</h1>
-<h4 align="left">A Software Engineer from Sri Lanka with 3+ years of experience</h3>
+<h4 align="left">A Software Engineer from Sri Lanka with 4+ years of experience</h3>
 
 - 💜 I'm currently working as a **Software Engineer at Platned**
-- 🎓 I'm currently studying as a **Software Engineering Undergraduate at SLIIT**
+- 🎓 I'm graduated as a **Software Engineering Graduate from SLIIT**
 - 📟 I'm the current **President of SLIIT FOSS Community**
 - 🔭 I’m currently working on **A mental health app!**
 - 🌱 I’m currently learning **about LLMs, Angular and Azure**
