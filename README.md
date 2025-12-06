@@ -1,4 +1,4 @@
-<h2 align="left">Hello! I'm Sayuru👋</h1>
+<h2 align="left">Hello there!</h1>
 <h4 align="left">A Software Engineer from Sri Lanka with 4+ years of experience</h3>
 
 - 💜 I'm currently working as a **Software Engineer at Platned**
