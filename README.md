@@ -1,8 +1,7 @@
 <h2 align="left">Hello there!</h1>
 <h4 align="left">A Software Engineer from Sri Lanka with 4+ years of experience</h3>
 
-- 💜 I'm currently working as a **Software Engineer at Platned**
-- 📟 I'm the current **President of The SLIIT FOSS Community**
+- 💜 I'm currently working as a **Research Engineer at Platned**
 - 🔭 I’m currently working on **Enhancing Sinhala NLP!**
 - 🌱 I’m currently learning **about LLMs, Kafka and Azure**
 - 👯 I’m looking to collaborate on **community projects**
